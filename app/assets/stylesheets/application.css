@@ -18,3 +18,4 @@
  table, td, th { vertical-align: middle; border: none; }
  th { border-bottom: 1px solid #DDD; }
  /* .picture {height:100px !important;} */
+.danger-delete {color:red}
